@@ -10,3 +10,7 @@ Jahodka by mala byt:
 Mam rad jahodku
 
 Toto je riadok pridany lokalne
+
+
+Toto je novy riadok pridany priamo v githube
+
