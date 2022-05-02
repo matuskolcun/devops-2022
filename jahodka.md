@@ -6,3 +6,5 @@ Jahodka by mala byt:
 *cervena
 *dozreta
 *zjedena
+
+Mam rad jahodku
