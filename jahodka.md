@@ -1,0 +1,8 @@
+#Toto je jahodka
+
+Jahodka by mala byt:
+
+*zdrava
+*cervena
+*dozreta
+*zjedena
