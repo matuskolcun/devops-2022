@@ -6,8 +6,9 @@ Jahodka by mala byt:
 *cervena
 *dozreta
 *zjedena
+*nema kostky
 
-Mam rad jahodku
+
 
 Toto je riadok pridany lokalne
 
