@@ -8,3 +8,5 @@ Jahodka by mala byt:
 *zjedena
 
 Mam rad jahodku
+
+Toto je riadok pridany lokalne
