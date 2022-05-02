@@ -1,4 +1,4 @@
-#Toto je jahodka
+#Toto je par riadkov o jahodke
 
 Jahodka by mala byt:
 
