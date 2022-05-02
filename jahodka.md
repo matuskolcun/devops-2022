@@ -7,4 +7,6 @@ Jahodka by mala byt:
 *dozreta
 *zjedena
 
-Mam rad jahodku
+Mam rad jahodku.
+
+Toto je novy riadok pridany priamo v githube
