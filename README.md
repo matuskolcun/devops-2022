@@ -5,3 +5,5 @@ devops academy
 * moj
 * prvy
 * github repozitar
+
+skusam branche
